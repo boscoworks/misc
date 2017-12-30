@@ -1,0 +1,4 @@
+hipchat_host = "sample.hogehoge.hipchat.com"
+hipchat_api_token = "api_token_here"
+max_results = 100
+max_trial_num = 10
